@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=JANVI.OS&fontColor=FF2E9F&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Integrated%20Systems&descAlignY=58&descColor=C77DFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF2E9F&height=260&section=header&text=JANVI%20JAISWAL&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI-Integrated%20Systems&descAlignY=56&descColor=ffffff" width="100%"/>
 
 <br/>
 
