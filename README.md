@@ -241,12 +241,12 @@ $ system_status
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge)](https://www.linkedin.com/in/janvi-jaiswal-72415b307/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF2E9F)](https://github.com/Janvi99852003)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF2E9F)](https://leetcode.com/u/jj_k3103/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=FF2E9F)](https://www.geeksforgeeks.org/profile/janvijai6ica)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF2E9F)](https://janvi-jaiswal-sde-portfolio-bpy2.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E9F)](mailto:janvijaiswal99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF2E9F?style=for-the-badge&logoColor=white&labelColor=FF2E9F)](https://www.linkedin.com/in/janvi-jaiswal-72415b307/)
+[![GitHub](https://img.shields.io/badge/GITHUB-FF2E9F?style=for-the-badge&logoColor=white&labelColor=FF2E9F)](https://github.com/Janvi99852003)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FF2E9F?style=for-the-badge&logoColor=white&labelColor=FF2E9F)](https://leetcode.com/u/jj_k3103/)
+[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-FF2E9F?style=for-the-badge&logoColor=white&labelColor=FF2E9F)](https://www.geeksforgeeks.org/profile/janvijai6ica)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF2E9F?style=for-the-badge&logoColor=white&labelColor=FF2E9F)](https://janvi-jaiswal-sde-portfolio-bpy2.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-FF2E9F?style=for-the-badge&logoColor=white&labelColor=FF2E9F)](mailto:janvijaiswal99@gmail.com)
 
 </div>
 
