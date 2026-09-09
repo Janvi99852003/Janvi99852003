@@ -241,7 +241,7 @@ $ system_status
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/janvi-jaiswal-72415b307/)
+**[🔗 LINKEDIN](https://www.linkedin.com/in/janvi-jaiswal-72415b307/)**
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF2E9F)](https://github.com/Janvi99852003)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF2E9F)](https://leetcode.com/u/jj_k3103/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=FF2E9F)](https://www.geeksforgeeks.org/profile/janvijai6ica)
