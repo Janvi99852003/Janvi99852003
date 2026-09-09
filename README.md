@@ -183,11 +183,6 @@ Currently a **B.Tech CSE** student at VIT Bhopal (CGPA 8.32/10), and completed a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Janvi99852003&show_icons=true&bg_color=0D1117&title_color=FF2E9F&text_color=E6E6E6&icon_color=C77DFF&border_color=FF2E9F&hide_border=false&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janvi99852003&layout=compact&bg_color=0D1117&title_color=FF2E9F&text_color=E6E6E6&border_color=FF2E9F&hide_border=false" width="48%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=Janvi99852003&background=0D1117&border=FF2E9F&stroke=FF2E9F&ring=FF2E9F&fire=C77DFF&currStreakLabel=FF2E9F&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8B8B8B" width="65%"/>
 
 </div>
